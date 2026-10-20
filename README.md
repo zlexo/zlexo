@@ -1,5 +1,3 @@
-# Alex
-
 Final-year CS student at VU Amsterdam.
 
 I make Minecraft mods for big YouTubers. The mods needed an engine, the engine needed an editor, and that led to a platform where other creators build their own. Now I'm building a voxel engine from scratch in C++20 and Vulkan.
