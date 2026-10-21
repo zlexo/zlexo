@@ -6,7 +6,7 @@ Along the way I build the tools I need: a texture studio, map editors, and one w
 
 ### Public
 
-- [**perdix**](https://github.com/zlexo/perdix): a Minecraft-like voxel engine in C++20 and Vulkan, built the way a team builds software: an RFC before code, small reviewed PRs, and CI on every one (Linux and macOS, three sanitizers, clang-tidy, a software-Vulkan render run). 287 merged PRs, 1,000+ tests.
+- [**perdix**](https://github.com/zlexo/perdix): a Minecraft-like voxel engine in C++20 and Vulkan, built the way a team builds software: an RFC before code, small reviewed PRs, and a CI pipeline (Linux and macOS, three sanitizers, clang-tidy, a software-Vulkan render run). 294 merged PRs, 1,000+ tests.
 - [**deck**](https://github.com/zlexo/deck): one window for every local tool I run. Start, stop and tail them, a local CI runner, an AI reviewer that checks each PR against the repo's own rules, a merge gate, and a spend ledger with monthly caps.
 - [**emoton**](https://github.com/zlexo/emoton): sources in, narrated explainer video out. The model fills a fixed schema, every claim cites a source page, and a validator sends bad output back.
 
